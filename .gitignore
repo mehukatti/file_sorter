@@ -1,0 +1,11 @@
+*
+!.gitignore
+!requirements.txt
+!*.md
+!*.json
+
+
+# except python files
+!*.py
+!*/
+.venv/*
